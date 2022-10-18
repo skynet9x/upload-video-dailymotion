@@ -1,0 +1,24 @@
+{
+  "id": "x2nx4ec",
+  "profile": "Dailymotion ticuchannel",
+  "status": "START",
+  "playlist_video": [
+    {
+      "playlist": "PL6PrA6lo8rJKZjyKmMFayEF3_AUu7kJ1X",
+      "upload_video": "2022/09/08 11:08:15"
+    },
+    {
+      "playlist": "PL6PrA6lo8rJImN2cLtZIBYtEsnDyM7jUb",
+      "upload_video": "2022/09/07 19:10:22"
+    },
+    {
+      "playlist": "PL6PrA6lo8rJImN2cLtZIBYtEsnDyM7jUb",
+      "upload_video": "2022/08/29 19:55:57"
+    }
+  ],
+  "daily": "50",
+  "today": 50,
+  "delay": "0",
+  "created_date": "2022/08/13 13:11:10",
+  "upload_video": "2022/09/07 19:10:22"
+}
