@@ -56,11 +56,6 @@ namespace upload_video_dailymotion
             th_run.Start();
         }
 
-        private void btn_save_Click(object sender, EventArgs e)
-        {
-            save_setting_dailymotion();
-        }
-
         private void start()
         {
             DirectoryInfo d = new DirectoryInfo("dailymotion/");
@@ -244,12 +239,17 @@ namespace upload_video_dailymotion
                 driver.Close();
             })
             { IsBackground = true }.Start();
-
         }
 
         private void settingToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form f = new setting();
+            f.Show();
+        }
+
+        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form f = new form_add_profile();
             f.Show();
         }
     }

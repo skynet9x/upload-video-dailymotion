@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn_save = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txt_delay = new System.Windows.Forms.TextBox();
             this.dataGridView_dailymotion = new System.Windows.Forms.DataGridView();
@@ -43,21 +42,10 @@
             this.btn_start = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.settingToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_dailymotion)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // btn_save
-            // 
-            this.btn_save.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btn_save.Location = new System.Drawing.Point(12, 52);
-            this.btn_save.Name = "btn_save";
-            this.btn_save.Size = new System.Drawing.Size(779, 23);
-            this.btn_save.TabIndex = 0;
-            this.btn_save.Text = "SAVE";
-            this.btn_save.UseVisualStyleBackColor = true;
-            this.btn_save.Click += new System.EventHandler(this.btn_save_Click);
             // 
             // label1
             // 
@@ -85,7 +73,7 @@
             this.dataGridView_dailymotion.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView_dailymotion.Location = new System.Drawing.Point(12, 138);
             this.dataGridView_dailymotion.Name = "dataGridView_dailymotion";
-            this.dataGridView_dailymotion.Size = new System.Drawing.Size(1114, 336);
+            this.dataGridView_dailymotion.Size = new System.Drawing.Size(1118, 512);
             this.dataGridView_dailymotion.TabIndex = 3;
             // 
             // label2
@@ -143,7 +131,7 @@
             // 
             this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(837, 88);
+            this.label5.Location = new System.Drawing.Point(841, 88);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(37, 13);
             this.label5.TabIndex = 6;
@@ -156,7 +144,7 @@
             this.txt_status.Items.AddRange(new object[] {
             "START",
             "STOP"});
-            this.txt_status.Location = new System.Drawing.Point(840, 104);
+            this.txt_status.Location = new System.Drawing.Point(844, 104);
             this.txt_status.Name = "txt_status";
             this.txt_status.Size = new System.Drawing.Size(289, 21);
             this.txt_status.TabIndex = 8;
@@ -168,7 +156,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_start.Location = new System.Drawing.Point(840, 52);
             this.btn_start.Name = "btn_start";
-            this.btn_start.Size = new System.Drawing.Size(289, 23);
+            this.btn_start.Size = new System.Drawing.Size(293, 23);
             this.btn_start.TabIndex = 0;
             this.btn_start.Text = "START";
             this.btn_start.UseVisualStyleBackColor = true;
@@ -177,10 +165,11 @@
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.newToolStripMenuItem,
             this.settingToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1138, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1142, 24);
             this.menuStrip1.TabIndex = 9;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -191,11 +180,18 @@
             this.settingToolStripMenuItem.Text = "setting";
             this.settingToolStripMenuItem.Click += new System.EventHandler(this.settingToolStripMenuItem_Click);
             // 
+            // newToolStripMenuItem
+            // 
+            this.newToolStripMenuItem.Name = "newToolStripMenuItem";
+            this.newToolStripMenuItem.Size = new System.Drawing.Size(41, 20);
+            this.newToolStripMenuItem.Text = "new";
+            this.newToolStripMenuItem.Click += new System.EventHandler(this.newToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1138, 486);
+            this.ClientSize = new System.Drawing.Size(1142, 662);
             this.Controls.Add(this.txt_status);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.txt_playlist);
@@ -208,7 +204,6 @@
             this.Controls.Add(this.txt_delay);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_start);
-            this.Controls.Add(this.btn_save);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
@@ -223,8 +218,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btn_save;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txt_delay;
         private System.Windows.Forms.DataGridView dataGridView_dailymotion;
@@ -239,6 +232,7 @@
         private System.Windows.Forms.Button btn_start;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem settingToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem newToolStripMenuItem;
     }
 }
 

@@ -21,3 +21,27 @@ D:\Công việc\github\upload-video-dailymotion\upload video dailymotion\upload 
 D:\Công việc\github\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.Logging.xml
 D:\Công việc\github\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
 D:\Công việc\github\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload_video_dailymotion.setting.resources
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\upload video dailymotion.exe.config
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\upload video dailymotion.exe
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\upload video dailymotion.pdb
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Newtonsoft.Json.dll
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\WebDriver.dll
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\xNet.dll
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\bin\Debug\Newtonsoft.Json.xml
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload video dailymotion.csprojAssemblyReference.cache
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload_video_dailymotion.form_add_profile.resources
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload_video_dailymotion.Form1.resources
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload_video_dailymotion.Properties.Resources.resources
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload_video_dailymotion.setting.resources
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload video dailymotion.csproj.GenerateResource.cache
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload video dailymotion.csproj.CoreCompileInputs.cache
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload video dailymotion.csproj.CopyComplete
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload video dailymotion.exe
+D:\VS 2017\upload-video-dailymotion\upload video dailymotion\upload video dailymotion\obj\Debug\upload video dailymotion.pdb
